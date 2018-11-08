@@ -8,7 +8,7 @@
 celsiusTemp = int(input("Enter the temperature: "))
 
 #convert the temperature to Farenheit
-FarenheitTemp = 9/5*celciusTemp + 32
+FarenheitTemp = 9/5*celsiusTemp + 32
 
 #Tell the user the temperature
 print("The temperature is", FarenheitTemp)
