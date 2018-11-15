@@ -32,7 +32,7 @@ def main():
                             if score  >= F_score:
                                  print('Your grade is a: F')
                                  
-                                 # TO DO: finish this
+                                 
                                            
                                            
 
