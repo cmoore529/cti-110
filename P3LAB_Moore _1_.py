@@ -1,5 +1,7 @@
-# I was supposed to put a comment here
-# My Last Name
+# CTI-110
+#P3Lab
+#Chase Moore
+#11/15/18
 
 def main():
     # This program takes a number grade and outputs a letter grade.
